@@ -4,7 +4,11 @@ A Demo Implementation of React Semantic UI with Webpack 4
 
 # Exemple
 
-Demo : ![alt text](https://react.semantic-ui.com/logo.png)
+Demo : ![alt text](https://imgur.com/a/1EPKQCj)
+
+![alt text](https://react.semantic-ui.com/logo.png)
+
+![alt text](https://webpack.js.org/e0b5805d423a4ec9473ee315250968b2.svg)
 
 # Firstly this is my settings
 
